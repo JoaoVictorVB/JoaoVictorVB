@@ -1,4 +1,18 @@
-### Technologies 
+<h1 align="center">
+	<span>Bem-vindo</span>
+</h1>
+
+Me chamo João Victor, sou desenvolvedor Full Stack com foco na construção de aplicações escaláveis e eficientes.
+
+Tenho experiência no desenvolvimento de back-end utilizando Node.js, NestJS e Prisma, trabalhando com bancos relacionais como MySQL e PostgreSQL. Também atuo com processamento assíncrono usando filas (BullMQ), além de ter familiaridade com Docker e pipelines de CI/CD.
+
+Gosto de resolver problemas reais através de software, principalmente criando sistemas que lidam com grande volume de dados e melhoram a eficiência de processos.
+
+Também possuo experiência liderando equipes de desenvolvimento e trabalhando com metodologias ágeis.
+
+Sempre aprendendo e construindo.
+
+### Tecnologias:
 
 #### Languages:
 
